@@ -1,4 +1,3 @@
-// const baseurl = 'https://mini-trello-1kja.onrender.com'
-const baseurl = "http://localhost:6969";
+const baseurl = "https://task-board-blys.onrender.com";
 
 export default baseurl;
